@@ -1,21 +1,38 @@
-# Netlify configuration for Video Downloader frontend
+# Netlify configuration for Video Downloader
+# Frontend deployment with backend API integration
 
 [build]
   publish = "frontend"
-  # Generate a small env.js at build time so runtime can read VITE_API_URL.
-  # If VITE_API_URL is unset, write an empty string so the frontend falls back to page origin.
-  command = "bash -lc \"echo \"window.__API_URL__='${VITE_API_URL:-}'\" > frontend/env.js\""
+  # Generate env.js file with API URL at build time
+  command = "bash -lc \"mkdir -p frontend && echo \\\"window.__API_URL__='${VITE_API_URL:-http://localhost:8000}'\\\" > frontend/env.js\""
 
+# SPA routing: redirect all requests to index.html
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
 
-[context.production.environment]
-  # Set your backend API URL here (e.g., if you have an existing backend service)
-  VITE_API_URL = "https://your-backend-api-url.com"
+# Cache control headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
 
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+
+# Production environment
+[context.production.environment]
+  # Update this with your backend API URL after deployment
+  VITE_API_URL = "https://your-backend-service-url.com"
+
+# Branch deploys
 [context.branch-deploy.environment]
-  # Local development
+  VITE_API_URL = "http://localhost:8000"
+
+# Deploy previews
+[context.deploy-preview.environment]
   VITE_API_URL = "http://localhost:8000"
 
