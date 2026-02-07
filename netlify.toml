@@ -27,7 +27,7 @@
 [context.production.environment]
   # Update this with your actual backend API URL
   # Examples: https://video-downloader-xyz.herokuapp.com or https://api.yourbackend.com
-  VITE_API_URL = "http://localhost:8000"
+  VITE_API_URL = "https://video-downloader-backend-7bcd.onrender.com"
 
 # Branch deploys
 [context.branch-deploy.environment]
