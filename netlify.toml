@@ -3,8 +3,7 @@
 
 [build]
   publish = "frontend"
-  # Generate env.js file with API URL at build time
-  command = "bash -lc \"mkdir -p frontend && echo \\\"window.__API_URL__='${VITE_API_URL:-http://localhost:8000}'\\\" > frontend/env.js\""
+  # No build command needed - frontend is static
 
 # SPA routing: redirect all requests to index.html
 [[redirects]]
