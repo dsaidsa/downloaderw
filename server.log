@@ -149,3 +149,272 @@ INFO:     127.0.0.1:64557 - "GET /file/5c494348-5c59-44e5-83e6-1ea9e567b46c HTTP
 INFO:     127.0.0.1:64552 - "GET /file/6ca10eed-d394-4495-a18c-6d0f14a3d64d HTTP/1.1" 200 OK
 INFO:     127.0.0.1:64559 - "GET /file/6ca10eed-d394-4495-a18c-6d0f14a3d64d HTTP/1.1" 200 OK
 INFO:     127.0.0.1:64562 - "GET /file/6ca10eed-d394-4495-a18c-6d0f14a3d64d HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[a9ada176-689c-47f7-964d-f41c66fbb436] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+[youtube] [jsc:deno] Solving JS challenges using deno
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 399+251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/a9ada176-689c-47f7-964d-f41c66fbb436_eVTXPUF4Oz4_1068p.f399.mp4
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[ddf2402a-f9b1-43df-9732-ca49e55aee18] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+[youtube] [jsc:deno] Solving JS challenges using deno
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 396+251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.f396.mp4
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+[download] Download completed
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/a9ada176-689c-47f7-964d-f41c66fbb436_eVTXPUF4Oz4_1068p.f251.webm
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64837 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64837 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+[download] Download completed
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.f251.webm
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64837 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64837 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64837 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+[download] Download completed
+[Merger] Merging formats into "/Users/rajatsable/Documents/web development/video downloader/downloads/a9ada176-689c-47f7-964d-f41c66fbb436_eVTXPUF4Oz4_1068p.mp4"
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/a9ada176-689c-47f7-964d-f41c66fbb436_eVTXPUF4Oz4_1068p.f399.mp4 (pass -k to keep)
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/a9ada176-689c-47f7-964d-f41c66fbb436_eVTXPUF4Oz4_1068p.f251.webm (pass -k to keep)
+[a9ada176-689c-47f7-964d-f41c66fbb436] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/a9ada176-689c-47f7-964d-f41c66fbb436_eVTXPUF4Oz4_1068p.mp4
+[a9ada176-689c-47f7-964d-f41c66fbb436] Files in download dir: 114
+[a9ada176-689c-47f7-964d-f41c66fbb436] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.f251.webm.part
+INFO:     127.0.0.1:64837 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/a9ada176-689c-47f7-964d-f41c66fbb436 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+[download] Download completed
+[Merger] Merging formats into "/Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.mp4"
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.f396.mp4 (pass -k to keep)
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.f251.webm (pass -k to keep)
+[ddf2402a-f9b1-43df-9732-ca49e55aee18] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.mp4
+[ddf2402a-f9b1-43df-9732-ca49e55aee18] Files in download dir: 112
+[ddf2402a-f9b1-43df-9732-ca49e55aee18] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/ddf2402a-f9b1-43df-9732-ca49e55aee18_eVTXPUF4Oz4_356p.mp4
+INFO:     127.0.0.1:64610 - "GET /status/ddf2402a-f9b1-43df-9732-ca49e55aee18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[89820320-f18e-47f5-b7be-5b8c408fc4c5] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+[youtube] [jsc:deno] Solving JS challenges using deno
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 399+251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/89820320-f18e-47f5-b7be-5b8c408fc4c5_eVTXPUF4Oz4_1068p.f399.mp4
+INFO:     127.0.0.1:52142 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[5a61c28d-5469-4b7a-9318-17a004fe4c74] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+[youtube] [jsc:deno] Solving JS challenges using deno
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 398+251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/5a61c28d-5469-4b7a-9318-17a004fe4c74_eVTXPUF4Oz4_712p.f398.mp4
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[b8d0585e-9cff-49b4-a74e-38276c80e1c7] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+[youtube] [jsc:deno] Solving JS challenges using deno
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.webm
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+[download] Download completed
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/89820320-f18e-47f5-b7be-5b8c408fc4c5_eVTXPUF4Oz4_1068p.f251.webm
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+[download] Download completed
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/5a61c28d-5469-4b7a-9318-17a004fe4c74_eVTXPUF4Oz4_712p.f251.webm
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+[download] Download completed
+[ExtractAudio] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.mp3
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.webm (pass -k to keep)
+[b8d0585e-9cff-49b4-a74e-38276c80e1c7] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.webm
+[b8d0585e-9cff-49b4-a74e-38276c80e1c7] Files in download dir: 119
+[b8d0585e-9cff-49b4-a74e-38276c80e1c7] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.mp3
+INFO:     127.0.0.1:52142 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /status/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52142 - "GET /file/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52193 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52193 - "GET /file/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+[download] Download completed
+[Merger] Merging formats into "/Users/rajatsable/Documents/web development/video downloader/downloads/89820320-f18e-47f5-b7be-5b8c408fc4c5_eVTXPUF4Oz4_1068p.mp4"
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/89820320-f18e-47f5-b7be-5b8c408fc4c5_eVTXPUF4Oz4_1068p.f399.mp4 (pass -k to keep)
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/89820320-f18e-47f5-b7be-5b8c408fc4c5_eVTXPUF4Oz4_1068p.f251.webm (pass -k to keep)
+[89820320-f18e-47f5-b7be-5b8c408fc4c5] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/89820320-f18e-47f5-b7be-5b8c408fc4c5_eVTXPUF4Oz4_1068p.mp4
+[89820320-f18e-47f5-b7be-5b8c408fc4c5] Files in download dir: 117
+[89820320-f18e-47f5-b7be-5b8c408fc4c5] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.mp3
+INFO:     127.0.0.1:52195 - "GET /status/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52195 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52197 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52197 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+[download] Download completed
+[Merger] Merging formats into "/Users/rajatsable/Documents/web development/video downloader/downloads/5a61c28d-5469-4b7a-9318-17a004fe4c74_eVTXPUF4Oz4_712p.mp4"
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/5a61c28d-5469-4b7a-9318-17a004fe4c74_eVTXPUF4Oz4_712p.f398.mp4 (pass -k to keep)
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/5a61c28d-5469-4b7a-9318-17a004fe4c74_eVTXPUF4Oz4_712p.f251.webm (pass -k to keep)
+[5a61c28d-5469-4b7a-9318-17a004fe4c74] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/5a61c28d-5469-4b7a-9318-17a004fe4c74_eVTXPUF4Oz4_712p.mp4
+[5a61c28d-5469-4b7a-9318-17a004fe4c74] Files in download dir: 115
+[5a61c28d-5469-4b7a-9318-17a004fe4c74] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/b8d0585e-9cff-49b4-a74e-38276c80e1c7_eVTXPUF4Oz4.mp3
+INFO:     127.0.0.1:52197 - "GET /status/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52197 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52199 - "GET /file/5a61c28d-5469-4b7a-9318-17a004fe4c74 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52201 - "GET /file/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52201 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52201 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52203 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52205 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52207 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52209 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52209 - "GET /file/b8d0585e-9cff-49b4-a74e-38276c80e1c7 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52211 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52213 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52215 - "GET /file/89820320-f18e-47f5-b7be-5b8c408fc4c5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52217 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:52219 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[5c821d39-1f62-442e-a3f1-00d922e42fcf] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+[youtube] [jsc:deno] Solving JS challenges using deno
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/5c821d39-1f62-442e-a3f1-00d922e42fcf_eVTXPUF4Oz4.webm
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "POST /download HTTP/1.1" 200 OK
+[youtube] Extracting URL: https://youtu.be/eVTXPUF4Oz4
+[990c1172-48d8-44d1-af33-ec9735ba70a8] Starting download: https://youtu.be/eVTXPUF4Oz4
+[youtube] eVTXPUF4Oz4: Downloading webpage
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+[youtube] eVTXPUF4Oz4: Downloading android vr player API JSON
+[youtube] eVTXPUF4Oz4: Downloading web safari player API JSON
+[youtube] eVTXPUF4Oz4: Downloading player 3510b6ff-main
+[youtube] [jsc:deno] Solving JS challenges using deno
+WARNING: [youtube] [jsc] Remote components challenge solver script (deno) and NPM package (deno) were skipped. These may be required to solve JS challenges. You can enable these downloads with  --remote-components ejs:github  (recommended) or  --remote-components ejs:npm , respectively. For more information and alternatives, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] eVTXPUF4Oz4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+[info] eVTXPUF4Oz4: Downloading 1 format(s): 396+251
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.f396.mp4
+INFO:     127.0.0.1:52219 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+[download] Download completed
+[ExtractAudio] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/5c821d39-1f62-442e-a3f1-00d922e42fcf_eVTXPUF4Oz4.mp3
+INFO:     127.0.0.1:52219 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/5c821d39-1f62-442e-a3f1-00d922e42fcf_eVTXPUF4Oz4.webm (pass -k to keep)
+[5c821d39-1f62-442e-a3f1-00d922e42fcf] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/5c821d39-1f62-442e-a3f1-00d922e42fcf_eVTXPUF4Oz4.webm
+[5c821d39-1f62-442e-a3f1-00d922e42fcf] Files in download dir: 118
+[5c821d39-1f62-442e-a3f1-00d922e42fcf] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/5c821d39-1f62-442e-a3f1-00d922e42fcf_eVTXPUF4Oz4.mp3
+INFO:     127.0.0.1:52219 - "GET /status/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52235 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52235 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52237 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52237 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+[download] Download completed
+[download] Destination: /Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.f251.webm
+INFO:     127.0.0.1:52243 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52243 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52245 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52245 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52247 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52247 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52249 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52249 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52251 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52251 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+[download] Download completed
+[Merger] Merging formats into "/Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.mp4"
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.f396.mp4 (pass -k to keep)
+Deleting original file /Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.f251.webm (pass -k to keep)
+[990c1172-48d8-44d1-af33-ec9735ba70a8] Downloaded file: /Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.mp4
+[990c1172-48d8-44d1-af33-ec9735ba70a8] Files in download dir: 117
+[990c1172-48d8-44d1-af33-ec9735ba70a8] Most recent file: /Users/rajatsable/Documents/web development/video downloader/downloads/990c1172-48d8-44d1-af33-ec9735ba70a8_eVTXPUF4Oz4_356p.mp4
+INFO:     127.0.0.1:52253 - "GET /status/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52253 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52255 - "GET /file/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52257 - "GET /file/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52259 - "GET /file/5c821d39-1f62-442e-a3f1-00d922e42fcf HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52259 - "GET /file/990c1172-48d8-44d1-af33-ec9735ba70a8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52261 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2000]

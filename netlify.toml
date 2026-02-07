@@ -25,8 +25,9 @@
 
 # Production environment
 [context.production.environment]
-  # Update this with your backend API URL after deployment
-  VITE_API_URL = "https://your-backend-service-url.com"
+  # Update this with your actual backend API URL
+  # Examples: https://video-downloader-xyz.herokuapp.com or https://api.yourbackend.com
+  VITE_API_URL = "http://localhost:8000"
 
 # Branch deploys
 [context.branch-deploy.environment]

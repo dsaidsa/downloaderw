@@ -1,0 +1,52 @@
+headersOrigin = "config"
+redirectsOrigin = "config"
+plugins = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/rajatsable/Documents/web development/video downloader/frontend"
+publishOrigin = "config"
+commandOrigin = "config"
+command = "bash -lc \"mkdir -p frontend && echo \\\"window.__API_URL__='${VITE_API_URL:-http://localhost:8000}'\\\" > frontend/env.js\""
+
+[build.environment]
+VITE_API_URL = "http://localhost:8000"
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
+
+[[headers]]
+for = "/*"
+
+[headers.values]
+Cache-Control = "public, max-age=3600"
+
+[[headers]]
+for = "/index.html"
+
+[headers.values]
+Cache-Control = "no-cache, no-store, must-revalidate"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]

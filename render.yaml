@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: video-downloader-backend
+    runtime: python
+    pythonVersion: 3.11
+    plan: free
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: STORAGE_TYPE
+        value: local
+    routes:
+      - path: /*
+        matchType: prefix
